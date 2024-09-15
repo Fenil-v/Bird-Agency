@@ -13,7 +13,7 @@ const works = [
     background: 'bg-gray-200',
     imageUrl: '/images/flight9.webp',
     title: 'Flight 9',
-    link: 'https://www.flight9.art',
+    link: "https://www.flight9.art",
   },
 ];
 
